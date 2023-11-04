@@ -31,3 +31,8 @@ firefly-iii:
 importer:
   # -- Set to false to not deploy the importer
   enabled: true
+
+
+pg-db:
+  enabled: false
+  
